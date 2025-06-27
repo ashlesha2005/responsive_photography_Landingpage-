@@ -1,0 +1,1 @@
+A fully responsive photography landing page created using HTML and CSS. This project demonstrates how to make a desktop-only layout mobile-friendly using media queries. It was built as part of Task 4: "Make a Website Mobile-Friendly" using CSS techniques and tested with Chrome DevTools. The design adapts across devices including mobile, tablet, and desktop screens.
